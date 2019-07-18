@@ -106,7 +106,7 @@ body {
   background-color:#C9E2FF;
   font-size: 20px;
   border-radius: 10px;
-  /* box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19); */
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
   width: 50%;
   margin-bottom: 50px;
   font-family: 'Raleway', Helvetica, Arial, sans-serif;
@@ -114,9 +114,9 @@ body {
   line-height: 25px;
 }
 
-/* #btndrop:hover{
+#btndrop:hover{
   background-color: white;
-} */
+}
 
 .options{
   display: none;
